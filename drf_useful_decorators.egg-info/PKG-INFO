@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: drf-useful-decorators
+Version: 0.0.2
+Summary: Useful decorators for working with Django Rest Framework.
+Home-page: https://github.com/Zadrote5/drf-useful-decorators
+Author: Zadrote5
+Author-email: braynt.k@mail.ru
+License: Apache License, Version 2.0, see LICENSE file
+Keywords: django rest drf atomic exception endpoints
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+

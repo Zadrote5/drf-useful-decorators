@@ -1,7 +1,7 @@
 import functools
 from django.db import transaction
 from rest_framework import status
-from methods import get_response
+from .methods import get_response
     
     
 def exceptions_endpoint(endpoint):
